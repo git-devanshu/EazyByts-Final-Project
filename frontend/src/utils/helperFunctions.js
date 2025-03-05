@@ -39,5 +39,5 @@ export function getCurrentDate(type){
 }
 
 export function getBaseURL(){
-    return 'http://localhost:5000';
+    return 'https://eventgo-backend.onrender.com';
 }
